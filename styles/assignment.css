@@ -61,3 +61,69 @@ nav h2 {
     background: rgb(198, 228, 214);
     padding: 80px 100px;
 }
+
+/* part 2 */
+
+.vision-title{
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.vision-description{
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    margin-bottom: 32px;
+}
+
+.second-task{
+    margin: 0px 160px;
+}
+
+.main-topic{
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.learn-btn{
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 8px;
+    border: none;
+    padding: 11px 20px;
+    color: antiquewhite;
+}
+.digital-i{
+    background: rgb(84, 144, 245);
+}
+.g-energy{
+    background: rgb(9, 161, 92);
+
+}
+.modern-i{
+    background: rgb(255, 194, 57);
+
+}
+.div-infodmation{
+    display: flex;
+    gap: 24px;
+}
+.di{
+    border-radius: 16px;
+    background: rgba(84, 144, 245, 0.2);
+    padding: 32px;
+}
+
+
+.green-i{
+    border-radius: 16px;
+    background: rgb(198, 228, 214);
+    padding: 32px;
+}
+
+
+.mi{
+    background: rgb(247, 235, 207);
+    border-radius: 16px;
+    padding: 24px;
+}
