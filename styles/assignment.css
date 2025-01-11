@@ -11,6 +11,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 20px;
 
 }
 nav h2 {
@@ -26,4 +27,37 @@ nav h2 {
     font-size: 15px;
     font-weight: 600;
     color: rgb(0, 106, 80);;
+}
+/* banner design */
+
+.title{
+    font-size: 21px;
+    font-weight: 500;
+    color: rgba(14, 14, 14, 0.5);
+    text-align: ledt;
+    margin-bottom: 16px;
+}
+.description{
+    font-size: 46px;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 24px;
+
+}
+.explore-btn{
+    font-size: 15px;
+    font-weight: 600;
+    padding: 17px 34px;
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    color: antiquewhite;
+    border: none;
+    
+}
+
+.banner-flag{
+    display: flex;
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+    padding: 80px 100px;
 }
