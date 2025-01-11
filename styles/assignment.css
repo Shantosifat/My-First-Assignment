@@ -127,3 +127,46 @@ nav h2 {
     border-radius: 16px;
     padding: 24px;
 }
+
+/* 3rd one */
+
+#akash{
+    border-radius: 24px;
+}
+.third-task{
+    margin: 80px 160px;
+}
+.sat-p{
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    margin-bottom: 32px;
+}
+.sat-info{
+    display: flex;
+    padding: 48px;
+    gap: 32px;
+    border-radius: 24px;
+    background: rgb(255, 255, 255);
+}
+.read-btn{
+    font-size: 16px;
+    font-weight: 600;
+    padding: 13px 26px;
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    color: whitesmoke;
+    border: none;
+}
+.date{
+    margin-right: 12px;
+}
+span{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#jazeera{
+    margin-bottom: 12px;
+}
