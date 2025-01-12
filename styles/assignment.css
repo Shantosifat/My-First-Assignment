@@ -2,6 +2,8 @@
 
 body{
     font-family: Fira Sans;
+    background-color: 
+    rgb(240, 218, 221);
 
 }
 .bonus-1{
@@ -76,8 +78,8 @@ nav h2 {
     margin-bottom: 32px;
 }
 
-.second-task{
-    margin: 0px 160px;
+.task{
+    margin: 80px 160px;
 }
 
 .main-topic{
@@ -133,21 +135,22 @@ nav h2 {
 #akash{
     border-radius: 24px;
 }
-.third-task{
+/* .third-task{
     margin: 80px 160px;
-}
+} */
 .sat-p{
     font-size: 14px;
     font-weight: 400;
     color: rgba(14, 14, 14, 0.7);
     margin-bottom: 32px;
 }
-.sat-info{
+.sat-info-one{
     display: flex;
     padding: 48px;
     gap: 32px;
     border-radius: 24px;
     background: rgb(255, 255, 255);
+    margin-bottom: 24px;
 }
 .read-btn{
     font-size: 16px;
@@ -169,4 +172,49 @@ span{
 
 #jazeera{
     margin-bottom: 12px;
+}
+
+/* last */
+
+.donate{
+    text-align: center;
+}
+/* .donate-when{
+    margin-bottom: 32px;
+} */
+.amount{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 40px;
+    font-weight: 700;
+    padding: 40px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: whitesmoke;
+}
+.tekar-amount{
+    display: flex;
+    justify-content: space-between;
+}
+.donate-now{
+    background: rgb(198, 228, 214);
+}
+.donate-section{
+    gap: 32px;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 1032px
+    
+}
+
+.right-now{
+    padding: 17px 34px;
+    text-align: center;
+}
+.donate-btn{
+    text-align: center;
+   margin-top: 48px;
 }
